@@ -63,15 +63,15 @@ msgstr "繫結 IPv6 位址"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:86
 msgid "Block list enabled"
-msgstr "阻止列表已啟用"
+msgstr "黑名單列表已啟用"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:89
 msgid "Blocklist URL"
-msgstr "URL阻止清單"
+msgstr "URL黑名單"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:83
 msgid "Blocklists"
-msgstr "阻止清單"
+msgstr "黑名單"
 
 #: applications/luci-app-transmission/htdocs/luci-static/resources/view/transmission.js:131
 msgid "Cache size in MB"
